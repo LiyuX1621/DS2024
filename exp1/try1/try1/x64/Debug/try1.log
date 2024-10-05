@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\VSproject\try1\try1\FileName.cpp(185,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\VSproject\try1\try1\FileName.cpp(211,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  try1.vcxproj -> D:\VSproject\try1\x64\Debug\try1.exe
