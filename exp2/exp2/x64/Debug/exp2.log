@@ -1,4 +1,0 @@
-﻿  try1.cpp
-D:\VSproject\exp2\exp2\try1.cpp(243,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-D:\VSproject\exp2\exp2\try1.cpp(282,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  exp2.vcxproj -> D:\VSproject\exp2\x64\Debug\exp2.exe
